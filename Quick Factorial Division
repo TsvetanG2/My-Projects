@@ -1,0 +1,29 @@
+using System;
+
+namespace Factorial_Division
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        Console.Write("Type an factiorial number")
+            int fact = int.Parse(Console.ReadLine());
+        Console.Write("Type a divider");
+            int devider = int.Parse(Console.ReadLine());
+            double result1 = Factoriel(fact);
+            double result2 = Factoriel(devider);
+            Console.WriteLine($"{result1 / result2:f2}");
+        }
+
+        private static double Factoriel(int number)
+        {
+            double result = 1;
+            while (number != 1)
+            {
+                result *= number;
+                number--;
+            }
+            return result;
+        }
+    }
+}
