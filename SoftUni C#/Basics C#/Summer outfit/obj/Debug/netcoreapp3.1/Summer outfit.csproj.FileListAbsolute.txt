@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.exe
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.deps.json
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.runtimeconfig.json
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.dll
+C:\Users\HP\source\repos\Summer outfit\bin\Debug\netcoreapp3.1\Summer outfit.pdb
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.AssemblyInfo.cs
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.dll
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.pdb
+C:\Users\HP\source\repos\Summer outfit\obj\Debug\netcoreapp3.1\Summer outfit.genruntimeconfig.cache

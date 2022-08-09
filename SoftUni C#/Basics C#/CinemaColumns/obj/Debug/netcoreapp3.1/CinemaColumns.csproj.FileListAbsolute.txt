@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.exe
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.deps.json
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.runtimeconfig.json
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.dll
+C:\Users\HP\source\repos\CinemaColumns\bin\Debug\netcoreapp3.1\CinemaColumns.pdb
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.AssemblyInfo.cs
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.dll
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.pdb
+C:\Users\HP\source\repos\CinemaColumns\obj\Debug\netcoreapp3.1\CinemaColumns.genruntimeconfig.cache
