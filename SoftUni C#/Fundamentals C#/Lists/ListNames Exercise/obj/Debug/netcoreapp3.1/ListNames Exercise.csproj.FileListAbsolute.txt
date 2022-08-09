@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\bin\Debug\netcoreapp3.1\ListNames Exercise.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni Fundamentals\Lists\ListNames Exercise\obj\Debug\netcoreapp3.1\ListNames Exercise.genruntimeconfig.cache
