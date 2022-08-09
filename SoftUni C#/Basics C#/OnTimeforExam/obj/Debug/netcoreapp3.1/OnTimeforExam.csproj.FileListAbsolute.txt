@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.exe
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.deps.json
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.runtimeconfig.json
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.runtimeconfig.dev.json
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.dll
+C:\Users\HP\source\repos\OnTimeforExam\bin\Debug\netcoreapp3.1\OnTimeforExam.pdb
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.dll
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.pdb
+C:\Users\HP\source\repos\OnTimeforExam\obj\Debug\netcoreapp3.1\OnTimeforExam.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.exe
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.deps.json
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.runtimeconfig.json
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.dll
+C:\Users\HP\source\repos\OperationBetweenNumbers\bin\Debug\netcoreapp3.1\OperationBetweenNumbers.pdb
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.dll
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.pdb
+C:\Users\HP\source\repos\OperationBetweenNumbers\obj\Debug\netcoreapp3.1\OperationBetweenNumbers.genruntimeconfig.cache
