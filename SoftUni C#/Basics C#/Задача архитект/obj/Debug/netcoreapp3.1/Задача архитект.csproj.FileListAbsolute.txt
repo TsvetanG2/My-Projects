@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.exe
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.deps.json
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.runtimeconfig.json
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.dll
+C:\Users\HP\source\repos\Задача архитект\bin\Debug\netcoreapp3.1\Задача архитект.pdb
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.AssemblyInfo.cs
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.dll
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.pdb
+C:\Users\HP\source\repos\Задача архитект\obj\Debug\netcoreapp3.1\Задача архитект.genruntimeconfig.cache
