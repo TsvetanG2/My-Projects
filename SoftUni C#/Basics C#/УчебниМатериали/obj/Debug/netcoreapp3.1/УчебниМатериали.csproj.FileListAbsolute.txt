@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.exe
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.deps.json
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.runtimeconfig.json
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.runtimeconfig.dev.json
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.dll
+C:\Users\HP\source\repos\УчебниМатериали\bin\Debug\netcoreapp3.1\УчебниМатериали.pdb
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.AssemblyInfo.cs
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.dll
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.pdb
+C:\Users\HP\source\repos\УчебниМатериали\obj\Debug\netcoreapp3.1\УчебниМатериали.genruntimeconfig.cache
