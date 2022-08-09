@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.exe
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.deps.json
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.runtimeconfig.json
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.dll
+C:\Users\HP\source\repos\BigFactorialOPEN\bin\Debug\netcoreapp3.1\BigFactorialOPEN.pdb
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.AssemblyInfo.cs
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.dll
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.pdb
+C:\Users\HP\source\repos\BigFactorialOPEN\obj\Debug\netcoreapp3.1\BigFactorialOPEN.genruntimeconfig.cache
