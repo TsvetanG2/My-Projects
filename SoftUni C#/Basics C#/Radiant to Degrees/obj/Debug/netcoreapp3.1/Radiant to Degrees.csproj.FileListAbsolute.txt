@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.exe
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.deps.json
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.runtimeconfig.json
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.dll
+C:\Users\HP\source\repos\Radiant to Degrees\bin\Debug\netcoreapp3.1\Radiant to Degrees.pdb
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.AssemblyInfo.cs
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.dll
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.pdb
+C:\Users\HP\source\repos\Radiant to Degrees\obj\Debug\netcoreapp3.1\Radiant to Degrees.genruntimeconfig.cache

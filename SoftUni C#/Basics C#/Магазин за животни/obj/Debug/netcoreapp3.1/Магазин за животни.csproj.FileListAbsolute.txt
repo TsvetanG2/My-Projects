@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.exe
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.deps.json
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.runtimeconfig.json
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.dll
+C:\Users\HP\source\repos\Магазин за животни\bin\Debug\netcoreapp3.1\Магазин за животни.pdb
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.AssemblyInfo.cs
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.dll
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.pdb
+C:\Users\HP\source\repos\Магазин за животни\obj\Debug\netcoreapp3.1\Магазин за животни.genruntimeconfig.cache
