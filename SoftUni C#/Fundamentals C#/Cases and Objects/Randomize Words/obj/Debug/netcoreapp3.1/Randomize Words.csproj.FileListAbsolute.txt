@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.exe
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.deps.json
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.runtimeconfig.json
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.dll
+C:\Users\HP\source\repos\Randomize Words\bin\Debug\netcoreapp3.1\Randomize Words.pdb
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.AssemblyInfo.cs
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.dll
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.pdb
+C:\Users\HP\source\repos\Randomize Words\obj\Debug\netcoreapp3.1\Randomize Words.genruntimeconfig.cache
