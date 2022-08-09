@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\bin\Debug\netcoreapp3.1\SoftUniTask1.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUniTask1\obj\Debug\netcoreapp3.1\SoftUniTask1.genruntimeconfig.cache
