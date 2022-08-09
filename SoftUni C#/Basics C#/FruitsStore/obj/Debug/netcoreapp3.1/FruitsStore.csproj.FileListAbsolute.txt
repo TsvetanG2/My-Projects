@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.exe
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.deps.json
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.runtimeconfig.json
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.dll
+C:\Users\HP\source\repos\FruitsStore\bin\Debug\netcoreapp3.1\FruitsStore.pdb
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.AssemblyInfo.cs
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.dll
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.pdb
+C:\Users\HP\source\repos\FruitsStore\obj\Debug\netcoreapp3.1\FruitsStore.genruntimeconfig.cache
