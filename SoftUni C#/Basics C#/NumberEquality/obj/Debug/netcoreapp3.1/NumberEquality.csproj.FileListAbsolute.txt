@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.exe
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.deps.json
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.runtimeconfig.json
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.dll
+C:\Users\HP\source\repos\NumberEquality\bin\Debug\netcoreapp3.1\NumberEquality.pdb
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.dll
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.pdb
+C:\Users\HP\source\repos\NumberEquality\obj\Debug\netcoreapp3.1\NumberEquality.genruntimeconfig.cache

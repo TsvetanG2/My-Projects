@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.exe
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.deps.json
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.runtimeconfig.json
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.runtimeconfig.dev.json
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.dll
+C:\Users\HP\source\repos\OddSeq\bin\Debug\netcoreapp3.1\OddSeq.pdb
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.AssemblyInfo.cs
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.dll
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.pdb
+C:\Users\HP\source\repos\OddSeq\obj\Debug\netcoreapp3.1\OddSeq.genruntimeconfig.cache

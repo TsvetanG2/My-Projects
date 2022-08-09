@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.exe
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.deps.json
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.runtimeconfig.json
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.dll
+C:\Users\HP\source\repos\NumSequels\bin\Debug\netcoreapp3.1\NumSequels.pdb
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.dll
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.pdb
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.genruntimeconfig.cache
+C:\Users\HP\source\repos\NumSequels\obj\Debug\netcoreapp3.1\NumSequels.csproj.AssemblyReference.cache
