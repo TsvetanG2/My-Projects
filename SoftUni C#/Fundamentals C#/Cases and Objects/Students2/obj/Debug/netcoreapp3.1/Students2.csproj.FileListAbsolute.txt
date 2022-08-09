@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\bin\Debug\netcoreapp3.1\Students2.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Students2\obj\Debug\netcoreapp3.1\Students2.genruntimeconfig.cache
