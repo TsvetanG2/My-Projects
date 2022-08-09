@@ -1,0 +1,28 @@
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.exe
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.deps.json
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.json
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\HP\source\repos\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\HP\source\repos\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.genruntimeconfig.cache
