@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\bin\Debug\netcoreapp3.1\Problem 1 – Activation Keys.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 1 – Activation Keys\obj\Debug\netcoreapp3.1\Problem 1 – Activation Keys.csproj.AssemblyReference.cache

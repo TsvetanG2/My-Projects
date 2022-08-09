@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boss Rush", "Boss Rush.csproj", "{99D47210-D6EE-4A55-A2E7-B72235908816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D47210-D6EE-4A55-A2E7-B72235908816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D47210-D6EE-4A55-A2E7-B72235908816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D47210-D6EE-4A55-A2E7-B72235908816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D47210-D6EE-4A55-A2E7-B72235908816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5CFDB94-7793-4D30-87D8-613D4CCAF05C}
+	EndGlobalSection
+EndGlobal

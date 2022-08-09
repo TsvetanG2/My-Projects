@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fancy Barcodes", "Fancy Barcodes.csproj", "{CA0150D5-20A4-493C-9356-1A6F1E426C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA0150D5-20A4-493C-9356-1A6F1E426C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0150D5-20A4-493C-9356-1A6F1E426C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0150D5-20A4-493C-9356-1A6F1E426C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0150D5-20A4-493C-9356-1A6F1E426C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC7AA9F-B66D-45F8-8555-7D05688D69DC}
+	EndGlobalSection
+EndGlobal
