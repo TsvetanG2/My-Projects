@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.exe
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.deps.json
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.runtimeconfig.json
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.dll
+C:\Users\HP\source\repos\ForCycle\bin\Debug\netcoreapp3.1\ForCycle.pdb
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.AssemblyInfo.cs
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.dll
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.pdb
+C:\Users\HP\source\repos\ForCycle\obj\Debug\netcoreapp3.1\ForCycle.genruntimeconfig.cache

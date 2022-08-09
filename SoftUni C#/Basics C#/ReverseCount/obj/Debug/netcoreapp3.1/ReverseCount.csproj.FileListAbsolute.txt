@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.exe
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.deps.json
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.runtimeconfig.json
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.dll
+C:\Users\HP\source\repos\ReverseCount\bin\Debug\netcoreapp3.1\ReverseCount.pdb
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.AssemblyInfo.cs
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.dll
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.pdb
+C:\Users\HP\source\repos\ReverseCount\obj\Debug\netcoreapp3.1\ReverseCount.genruntimeconfig.cache
