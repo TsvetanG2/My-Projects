@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.AssemblyInfo.cs
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.exe
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.deps.json
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.runtimeconfig.json
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.runtimeconfig.dev.json
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.dll
+C:\Users\HP\source\repos\KingVsKong\bin\Debug\netcoreapp3.1\KingVsKong.pdb
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.dll
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.pdb
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.genruntimeconfig.cache
+C:\Users\HP\source\repos\KingVsKong\obj\Debug\netcoreapp3.1\KingVsKong.csproj.AssemblyReference.cache

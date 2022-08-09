@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.exe
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.deps.json
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.json
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.dll
+C:\Users\HP\source\repos\WorldRecord\bin\Debug\netcoreapp3.1\WorldRecord.pdb
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.AssemblyInfo.cs
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.dll
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.pdb
+C:\Users\HP\source\repos\WorldRecord\obj\Debug\netcoreapp3.1\WorldRecord.genruntimeconfig.cache

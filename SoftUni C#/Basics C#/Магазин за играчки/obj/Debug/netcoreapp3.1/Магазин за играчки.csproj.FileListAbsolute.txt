@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.exe
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.deps.json
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.runtimeconfig.json
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.dll
+C:\Users\HP\source\repos\Магазин за играчки\bin\Debug\netcoreapp3.1\Магазин за играчки.pdb
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.AssemblyInfo.cs
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.dll
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.pdb
+C:\Users\HP\source\repos\Магазин за играчки\obj\Debug\netcoreapp3.1\Магазин за играчки.genruntimeconfig.cache
