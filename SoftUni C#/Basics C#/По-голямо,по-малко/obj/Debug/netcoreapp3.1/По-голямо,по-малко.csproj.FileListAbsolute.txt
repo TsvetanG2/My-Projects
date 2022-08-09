@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\bin\Debug\netcoreapp3.1\По-голямо,по-малко.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\По-голямо,по-малко\obj\Debug\netcoreapp3.1\По-голямо,по-малко.genruntimeconfig.cache

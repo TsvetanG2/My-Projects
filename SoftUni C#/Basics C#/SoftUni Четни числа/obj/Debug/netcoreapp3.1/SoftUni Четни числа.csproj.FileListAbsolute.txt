@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\bin\Debug\netcoreapp3.1\SoftUni Четни числа.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\SoftUni Четни числа\obj\Debug\netcoreapp3.1\SoftUni Четни числа.genruntimeconfig.cache
