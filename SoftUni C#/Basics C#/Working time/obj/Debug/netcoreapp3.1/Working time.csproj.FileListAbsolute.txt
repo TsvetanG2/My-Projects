@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.exe
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.deps.json
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.runtimeconfig.json
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.dll
+C:\Users\HP\source\repos\Working time\bin\Debug\netcoreapp3.1\Working time.pdb
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.AssemblyInfo.cs
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.dll
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.pdb
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.genruntimeconfig.cache
+C:\Users\HP\source\repos\Working time\obj\Debug\netcoreapp3.1\Working time.csproj.AssemblyReference.cache

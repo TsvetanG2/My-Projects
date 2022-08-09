@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.exe
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.deps.json
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.runtimeconfig.json
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.dll
+C:\Users\HP\source\repos\Квартално магазинче\bin\Debug\netcoreapp3.1\Квартално магазинче.pdb
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.AssemblyInfo.cs
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.dll
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.pdb
+C:\Users\HP\source\repos\Квартално магазинче\obj\Debug\netcoreapp3.1\Квартално магазинче.genruntimeconfig.cache
