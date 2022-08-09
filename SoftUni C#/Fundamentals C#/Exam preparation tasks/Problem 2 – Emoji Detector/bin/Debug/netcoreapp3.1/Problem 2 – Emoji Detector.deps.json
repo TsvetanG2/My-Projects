@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Problem 2 – Emoji Detector/1.0.0": {
+        "runtime": {
+          "Problem 2 – Emoji Detector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 2 – Emoji Detector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

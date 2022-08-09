@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UzmU9OMjl0f6zDavOkR5ryrJjcgYwHUcO4iexU0y6llMujyn4Vn3MBHPU7KcSxo6kmrZrs4UiquT6b2J7xTKzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Работен плот\\SotUni\\C# Fundamentals\\Exam Preparation\\The Pianist\\The Pianist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
