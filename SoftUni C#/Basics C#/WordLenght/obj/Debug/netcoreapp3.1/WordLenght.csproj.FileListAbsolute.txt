@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.exe
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.deps.json
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.runtimeconfig.json
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.dll
+C:\Users\HP\source\repos\WordLenght\bin\Debug\netcoreapp3.1\WordLenght.pdb
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.AssemblyInfo.cs
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.dll
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.pdb
+C:\Users\HP\source\repos\WordLenght\obj\Debug\netcoreapp3.1\WordLenght.genruntimeconfig.cache
