@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\bin\Debug\netcoreapp3.1\Calculator of evaluation.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Calculator of evaluation\obj\Debug\netcoreapp3.1\Calculator of evaluation.csproj.AssemblyReference.cache

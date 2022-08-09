@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\bin\Debug\netcoreapp3.1\Decrypting Commands.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Final Exam Task\Decrypting Commands\obj\Debug\netcoreapp3.1\Decrypting Commands.csproj.AssemblyReference.cache
