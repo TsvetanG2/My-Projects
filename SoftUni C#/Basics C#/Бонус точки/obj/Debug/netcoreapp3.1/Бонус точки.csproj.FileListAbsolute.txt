@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.exe
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.deps.json
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.runtimeconfig.json
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.dll
+C:\Users\HP\source\repos\Бонус точки\bin\Debug\netcoreapp3.1\Бонус точки.pdb
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.AssemblyInfo.cs
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.dll
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.pdb
+C:\Users\HP\source\repos\Бонус точки\obj\Debug\netcoreapp3.1\Бонус точки.genruntimeconfig.cache

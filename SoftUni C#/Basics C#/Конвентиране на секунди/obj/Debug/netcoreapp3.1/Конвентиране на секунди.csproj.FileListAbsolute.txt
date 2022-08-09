@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.exe
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.deps.json
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.runtimeconfig.json
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.dll
+C:\Users\HP\source\repos\Конвентиране на секунди\bin\Debug\netcoreapp3.1\Конвентиране на секунди.pdb
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.AssemblyInfo.cs
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.dll
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.pdb
+C:\Users\HP\source\repos\Конвентиране на секунди\obj\Debug\netcoreapp3.1\Конвентиране на секунди.genruntimeconfig.cache
