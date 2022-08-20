@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.exe
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.deps.json
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.runtimeconfig.json
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.runtimeconfig.dev.json
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.dll
+C:\Users\HP\source\repos\PetsCare\bin\Debug\netcoreapp3.1\PetsCare.pdb
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.AssemblyInfo.cs
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.dll
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.pdb
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.genruntimeconfig.cache
+C:\Users\HP\source\repos\PetsCare\obj\Debug\netcoreapp3.1\PetsCare.csproj.AssemblyReference.cache
