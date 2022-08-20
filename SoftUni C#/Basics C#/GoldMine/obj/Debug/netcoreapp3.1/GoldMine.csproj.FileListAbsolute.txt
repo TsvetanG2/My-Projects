@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.exe
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.deps.json
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.runtimeconfig.json
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.runtimeconfig.dev.json
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.dll
+C:\Users\HP\source\repos\GoldMine\bin\Debug\netcoreapp3.1\GoldMine.pdb
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.AssemblyInfo.cs
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.dll
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.pdb
+C:\Users\HP\source\repos\GoldMine\obj\Debug\netcoreapp3.1\GoldMine.genruntimeconfig.cache

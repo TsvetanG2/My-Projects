@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldMine", "GoldMine.csproj", "{C02EBC4E-74C4-4CB7-B311-574E4ADC367D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02EBC4E-74C4-4CB7-B311-574E4ADC367D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02EBC4E-74C4-4CB7-B311-574E4ADC367D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02EBC4E-74C4-4CB7-B311-574E4ADC367D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02EBC4E-74C4-4CB7-B311-574E4ADC367D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0491F9A5-DB4C-420D-9BF3-7DDF14B14708}
+	EndGlobalSection
+EndGlobal
