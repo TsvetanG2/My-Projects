@@ -1,6 +1,5 @@
-# Programming Basics with C#
+# The folders contains:
 
-This program consists of (in order):
 - [x] First Steps in Coding
 - [x] Simple Operations and Calculations
 - [x] Conditional Statements
