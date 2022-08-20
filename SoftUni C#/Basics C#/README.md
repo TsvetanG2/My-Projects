@@ -5,10 +5,10 @@ This program consists of (in order):
 - [x] Simple Operations and Calculations
 - [x] Conditional Statements
 - [ ] Nested Conditional Statements
-- [ ] While-Loop
-- [ ] For-Loop
+- [x] While-Loop
+- [x] For-Loop
 - [ ] Nested Loops
-- [ ] Exam Preparation
+- [x] Exam Preparation
 - [ ] Sample Exam
 - [ ] Exam
 
