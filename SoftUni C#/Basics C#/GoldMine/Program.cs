@@ -30,7 +30,7 @@ namespace GoldMine
                 {
                     average -= expectedgold;
 
-                    Console.WriteLine($"You need: {Math.Abs(average):f2}.");
+                    Console.WriteLine($"You need {Math.Abs(average):f2} gold.");
                 }
                     
                         
