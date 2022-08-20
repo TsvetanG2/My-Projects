@@ -8,3 +8,6 @@ Courses completed:
 - [ ] Web
 
 > The checkmarked topics/folders are the filled in ones.
+
+
+<img align="center" src="https://softuni.bg/certificates/certificates/converttoimage/132200?code=d8df9f46"/>
