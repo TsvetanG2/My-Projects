@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace GoldMine
 {
@@ -10,25 +10,20 @@ namespace GoldMine
 
             double goldfortheday = 0;
 
-            for (int i = 0; i <= locations; i++)
+            for (int i = 0; i  locations; i++)
             {
                 double expectedgold = double.Parse(Console.ReadLine());
                 int days = int.Parse(Console.ReadLine());
 
-                while (goldfortheday != 0)
+                for (int j = 0; j < days; j++)
                 {
-                    double diggedgold = double.Parse(Console.ReadLine());
-
-                    if (diggedgold >= 0)
-                    {
-                        diggedgold += goldfortheday;
-                    }
-
+                    double expectedgold2 = double.Parse(Console.ReadLine());
+                    goldfortheday += expectedgold2;
                 }
 
-                goldfortheday /= days;
+                double average = goldfortheday/ days; 
 
-                if (goldfortheday >= expectedgold)
+                if (average >= expectedgold)
                 {
                     Console.WriteLine($"Good job! Average gold per day: {goldfortheday:f2}.");
                 }
