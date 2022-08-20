@@ -28,13 +28,13 @@ namespace GoldMine
 
                 goldfortheday /= days;
 
-                if (goldfortheday >= diggedgold)
+                if (goldfortheday >= expectedgold)
                 {
                     Console.WriteLine($"Good job! Average gold per day: {goldfortheday:f2}.");
                 }
                 else
                 {
-                    goldfortheday -= diggedgold;
+                    goldfortheday -= expectedgold;
 
                     Console.WriteLine($"You need: {Math.Abs(goldfortheday):f2}.");
                 }
