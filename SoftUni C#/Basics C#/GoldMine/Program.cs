@@ -8,12 +8,11 @@ namespace GoldMine
         {
             int locations = int.Parse(Console.ReadLine());
 
-            double goldfortheday = 0;
-
-            for (int i = 0; i  locations; i++)
+            for (int i = 0; i < locations; i++)
             {
                 double expectedgold = double.Parse(Console.ReadLine());
                 int days = int.Parse(Console.ReadLine());
+                double goldfortheday = 0.0;
 
                 for (int j = 0; j < days; j++)
                 {
@@ -25,13 +24,13 @@ namespace GoldMine
 
                 if (average >= expectedgold)
                 {
-                    Console.WriteLine($"Good job! Average gold per day: {goldfortheday:f2}.");
+                    Console.WriteLine($"Good job! Average gold per day: {average:f2}.");
                 }
                 else
                 {
-                    goldfortheday -= expectedgold;
+                    average -= expectedgold;
 
-                    Console.WriteLine($"You need: {Math.Abs(goldfortheday):f2}.");
+                    Console.WriteLine($"You need: {Math.Abs(average):f2}.");
                 }
                     
                         
