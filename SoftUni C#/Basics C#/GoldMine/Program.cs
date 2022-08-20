@@ -10,7 +10,7 @@ namespace GoldMine
 
             double goldfortheday = 0;
 
-            for (int i = 1; i <= locations; i++)
+            for (int i = 0; i <= locations; i++)
             {
                 double expectedgold = double.Parse(Console.ReadLine());
                 int days = int.Parse(Console.ReadLine());
@@ -28,13 +28,13 @@ namespace GoldMine
 
                 goldfortheday /= days;
 
-                if (expectedgold <= goldfortheday)
+                if (goldfortheday >= diggedgold)
                 {
                     Console.WriteLine($"Good job! Average gold per day: {goldfortheday:f2}.");
                 }
                 else
                 {
-                    goldfortheday -= expectedgold;
+                    goldfortheday -= diggedgold;
 
                     Console.WriteLine($"You need: {Math.Abs(goldfortheday):f2}.");
                 }
