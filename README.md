@@ -8,3 +8,5 @@
 * Languages, that I'm currently working on 👨🏻‍💻
 * Laguages, that I'm looking forward on 🧐
 * Others
+
+<a href = "https://tenor.com/search/coding-gifs">
