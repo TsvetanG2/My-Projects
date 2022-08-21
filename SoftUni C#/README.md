@@ -1,6 +1,6 @@
 # SoftUni C#
 
-Courses completed:
+Completed courses✅:
 - [x] Basics
 - [x] Fundamentals
 - [ ] Advanced
