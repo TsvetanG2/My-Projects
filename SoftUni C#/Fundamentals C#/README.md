@@ -13,4 +13,4 @@
 - [ ] QA
 - [ ] Web project
 
-> The checkmarked topics/folders are the filled in ones.
+>The unchecked folders, doen't contain items/files, due to the fact, that the files are notes
