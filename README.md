@@ -8,4 +8,3 @@
 * Languages, that I'm currently working on 👨🏻‍💻
 * Laguages, that I'm looking forward on 🧐
 * Others
-<img width = "35%" src = "https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
