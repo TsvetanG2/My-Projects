@@ -4,7 +4,7 @@
 </h2>
 
 * Projects that I'm currently working on 👾
-* Tasks assignet to me by my university 👨🏻‍🎓
+* Tasks assigned by SoftUni 👨🏻‍🎓
 * Languages, that I'm currently working on 👨🏻‍💻
 * Laguages, that I'm looking forward on 🧐
 * Others
