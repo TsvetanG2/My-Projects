@@ -14,7 +14,7 @@ namespace GoldMine
                 int days = int.Parse(Console.ReadLine());
                 double goldfortheday = 0.0;
 
-                for (int j = 0; j < days; j++)
+                for (int j = 1; j < days; j++)
                 {
                     double expectedgold2 = double.Parse(Console.ReadLine());
                     goldfortheday += expectedgold2;
