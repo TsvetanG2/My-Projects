@@ -8,7 +8,7 @@ namespace GoldMine
         {
             int locations = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < locations; i++)
+            for (int i = 1; i < locations; i++)
             {
                 double expectedgold = double.Parse(Console.ReadLine());
                 int days = int.Parse(Console.ReadLine());
