@@ -1,7 +1,7 @@
 # SoftUni Python
 
 Courses completed:
-- [ ] Basics
+- [x] Basics
 - [ ] Fundamentals
 - [ ] Advanced
 - [ ] Profesional
