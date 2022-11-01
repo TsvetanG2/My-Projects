@@ -1,12 +1,13 @@
-# SoftUni Python
+# SoftUni C#
 
-Courses completed:
+Completed courses✅:
 - [x] Basics
-- [ ] Fundamentals
+- [x] Fundamentals
 - [ ] Advanced
 - [ ] Profesional
 - [ ] Web
 
-> The checkmarked topics/folders are the filled in ones.
+# Certificates:
 
-<img align = "right" width = "45%" height = "25%" src="https://user-images.githubusercontent.com/106432651/199161139-250925f2-39e1-4770-9b6a-e042327c83d3.png">
+<img align = "right" width = "45%" height = "25%" src="https://user-images.githubusercontent.com/106432651/185767197-06fe40ee-50c2-4a5d-a3c7-8ba2918501a3.jpg"/>
+
