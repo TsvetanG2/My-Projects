@@ -2,12 +2,12 @@
 
 Completed courses✅:
 - [x] Basics
-- [x] Fundamentals
+- [ ] Fundamentals
 - [ ] Advanced
 - [ ] Profesional
 - [ ] Web
 
 # Certificates:
 
-<img align = "right" width = "45%" height = "25%" src="https://user-images.githubusercontent.com/106432651/185767197-06fe40ee-50c2-4a5d-a3c7-8ba2918501a3.jpg"/>
+<img align = "right" width = "45%" height = "25%" src="[https://user-images.githubusercontent.com/106432651/185767197-06fe40ee-50c2-4a5d-a3c7-8ba2918501a3.jpg](https://softuni.bg//Content/images/certificates/logo-white.svg)"/>
 
