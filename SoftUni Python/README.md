@@ -9,4 +9,4 @@ Completed courses✅:
 
 # Certificates:
 
-<img align = "right" width = "45%" height = "25%" src="https://softuni.bg/certificates/details/146487/ca90ed9f"
+<img align = "right" width = "45%" height = "25%" src="https://softuni.bg/certificates/certificates/converttoimage/146487?code=ca90ed9f"
