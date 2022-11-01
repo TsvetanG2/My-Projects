@@ -9,4 +9,4 @@ Courses completed:
 
 > The checkmarked topics/folders are the filled in ones.
 
-<img align = "right" width = "45%" height = "25%" src="https://softuni.bg/Certificates/Details/146487/ca90ed9f">
+<img align = "right" width = "45%" height = "25%" src="[https://softuni.bg/Certificates/Details/146487/ca90ed9f](https://softuni.bg//Content/images/certificates/logo-white.svg)">
