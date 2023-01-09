@@ -1,4 +1,4 @@
-# SoftUni C#
+# SoftUni Python
 
 Completed courses✅:
 - [x] Basics
