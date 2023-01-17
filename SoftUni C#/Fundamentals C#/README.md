@@ -4,13 +4,13 @@
 - [x] Objects and classes
 - [x] Methods
 - [x] Arrays
-- [ ] HTTP Basics
+- [x] HTTP Basics
 - [x] Lists
-- [ ] Bitwise operations
+- [x] Bitwise operations
 - [x] Exam Preparation
 - [ ] Test processing 
-- [ ] Database basics
-- [ ] QA
+- [x] Database basics
+- [x] QA
 - [ ] Web project
 
 >The unchecked folders, doen't contain items/files, due to the fact, that the files are notes
