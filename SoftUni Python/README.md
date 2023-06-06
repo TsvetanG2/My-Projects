@@ -2,7 +2,7 @@
 
 Completed courses✅:
 - [x] Basics
-- [ ] Fundamentals
+- [x] Fundamentals
 - [ ] Advanced
 - [ ] Profesional
 - [ ] Web
