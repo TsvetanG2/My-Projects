@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.exe
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.deps.json
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.runtimeconfig.json
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.dll
+C:\Users\HP\source\repos\NumberCheck\bin\Debug\netcoreapp3.1\NumberCheck.pdb
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.AssemblyInfo.cs
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.dll
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.pdb
+C:\Users\HP\source\repos\NumberCheck\obj\Debug\netcoreapp3.1\NumberCheck.genruntimeconfig.cache

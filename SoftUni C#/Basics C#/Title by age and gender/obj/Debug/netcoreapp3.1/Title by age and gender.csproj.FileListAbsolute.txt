@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.exe
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.deps.json
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.runtimeconfig.json
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.dll
+C:\Users\HP\source\repos\Title by age and gender\bin\Debug\netcoreapp3.1\Title by age and gender.pdb
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.AssemblyInfo.cs
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.dll
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.pdb
+C:\Users\HP\source\repos\Title by age and gender\obj\Debug\netcoreapp3.1\Title by age and gender.genruntimeconfig.cache

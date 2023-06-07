@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\bin\Debug\netcoreapp3.1\The Pianist.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Associative Arrays\The Pianist\obj\Debug\netcoreapp3.1\The Pianist.genruntimeconfig.cache

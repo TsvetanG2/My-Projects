@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.exe
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.deps.json
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.runtimeconfig.json
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.dll
+C:\Users\HP\source\repos\Долари в Лева\bin\Debug\netcoreapp3.1\Долари в Лева.pdb
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.AssemblyInfo.cs
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.dll
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.pdb
+C:\Users\HP\source\repos\Долари в Лева\obj\Debug\netcoreapp3.1\Долари в Лева.genruntimeconfig.cache

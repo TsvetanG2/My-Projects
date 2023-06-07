@@ -1,0 +1,1 @@
+cat > filename.txt

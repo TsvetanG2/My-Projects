@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\bin\Debug\netcoreapp3.1\Arcticles.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Cases and Objects Exercises\Arcticles\obj\Debug\netcoreapp3.1\Arcticles.genruntimeconfig.cache

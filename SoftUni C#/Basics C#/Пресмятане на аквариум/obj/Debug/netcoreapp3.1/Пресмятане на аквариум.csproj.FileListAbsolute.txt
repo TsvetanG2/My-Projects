@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\bin\Debug\netcoreapp3.1\Пресмятане на аквариум.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Пресмятане на аквариум\obj\Debug\netcoreapp3.1\Пресмятане на аквариум.genruntimeconfig.cache

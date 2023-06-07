@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\HP\source\repos\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\HP\source\repos\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

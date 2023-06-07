@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRPtDW3/XMespyHzt59stIvaLp0/lv2HQmY+Qt9H3D1ZEIECm/H885IcXUOX5+LqcJMlCfqTVmFugblbxQ5yxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Работен плот\\SotUni\\C# Fundamentals\\Associative Arrays\\A Miner Task\\A Miner Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

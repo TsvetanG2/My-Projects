@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.exe
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.deps.json
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.runtimeconfig.json
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.dll
+C:\Users\HP\source\repos\Fruit or veg\bin\Debug\netcoreapp3.1\Fruit or veg.pdb
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.AssemblyInfo.cs
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.dll
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.pdb
+C:\Users\HP\source\repos\Fruit or veg\obj\Debug\netcoreapp3.1\Fruit or veg.genruntimeconfig.cache

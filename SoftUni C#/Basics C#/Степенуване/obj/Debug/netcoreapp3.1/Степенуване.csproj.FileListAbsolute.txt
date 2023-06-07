@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.exe
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.deps.json
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.runtimeconfig.json
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.dll
+C:\Users\HP\source\repos\Степенуване\bin\Debug\netcoreapp3.1\Степенуване.pdb
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.AssemblyInfo.cs
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.dll
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.pdb
+C:\Users\HP\source\repos\Степенуване\obj\Debug\netcoreapp3.1\Степенуване.genruntimeconfig.cache

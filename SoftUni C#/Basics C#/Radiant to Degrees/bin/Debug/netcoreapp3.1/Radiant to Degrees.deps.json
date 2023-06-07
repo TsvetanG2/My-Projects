@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Radiant to Degrees/1.0.0": {
+        "runtime": {
+          "Radiant to Degrees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Radiant to Degrees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.exe
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.deps.json
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.runtimeconfig.json
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.dll
+C:\Users\HP\source\repos\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.pdb
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.AssemblyInfo.cs
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.dll
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.pdb
+C:\Users\HP\source\repos\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\bin\Debug\netcoreapp3.1\Калкулатор за депозити.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Калкулатор за депозити\obj\Debug\netcoreapp3.1\Калкулатор за депозити.genruntimeconfig.cache

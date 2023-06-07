@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\bin\Debug\netcoreapp3.1\Gifts from Santa.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Basics\Gifts from Santa\obj\Debug\netcoreapp3.1\Gifts from Santa.genruntimeconfig.cache

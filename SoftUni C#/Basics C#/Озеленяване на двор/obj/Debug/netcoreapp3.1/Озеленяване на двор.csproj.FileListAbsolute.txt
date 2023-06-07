@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.exe
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.deps.json
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.runtimeconfig.json
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.dll
+C:\Users\HP\source\repos\Озеленяване на двор\bin\Debug\netcoreapp3.1\Озеленяване на двор.pdb
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.AssemblyInfo.cs
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.dll
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.pdb
+C:\Users\HP\source\repos\Озеленяване на двор\obj\Debug\netcoreapp3.1\Озеленяване на двор.genruntimeconfig.cache

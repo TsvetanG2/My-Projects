@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.exe
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.deps.json
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.runtimeconfig.json
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.dll
+C:\Users\HP\source\repos\HotelRooms\bin\Debug\netcoreapp3.1\HotelRooms.pdb
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.AssemblyInfo.cs
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.dll
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.pdb
+C:\Users\HP\source\repos\HotelRooms\obj\Debug\netcoreapp3.1\HotelRooms.genruntimeconfig.cache

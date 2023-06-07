@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.exe
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.deps.json
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.runtimeconfig.json
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.dll
+C:\Users\HP\source\repos\Fishing boat\bin\Debug\netcoreapp3.1\Fishing boat.pdb
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.AssemblyInfo.cs
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.dll
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.pdb
+C:\Users\HP\source\repos\Fishing boat\obj\Debug\netcoreapp3.1\Fishing boat.genruntimeconfig.cache

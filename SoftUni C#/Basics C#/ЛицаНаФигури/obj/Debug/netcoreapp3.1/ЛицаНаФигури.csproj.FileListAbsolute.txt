@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\bin\Debug\netcoreapp3.1\ЛицаНаФигури.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\ЛицаНаФигури\obj\Debug\netcoreapp3.1\ЛицаНаФигури.genruntimeconfig.cache

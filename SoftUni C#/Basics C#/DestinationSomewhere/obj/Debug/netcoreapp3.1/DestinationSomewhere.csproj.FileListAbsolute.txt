@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.exe
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.deps.json
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.runtimeconfig.json
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.dll
+C:\Users\HP\source\repos\DestinationSomewhere\bin\Debug\netcoreapp3.1\DestinationSomewhere.pdb
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.AssemblyInfo.cs
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.dll
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.pdb
+C:\Users\HP\source\repos\DestinationSomewhere\obj\Debug\netcoreapp3.1\DestinationSomewhere.genruntimeconfig.cache

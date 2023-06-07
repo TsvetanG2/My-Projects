@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Конвентиране на секунди/1.0.0": {
+        "runtime": {
+          "Конвентиране на секунди.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Конвентиране на секунди/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

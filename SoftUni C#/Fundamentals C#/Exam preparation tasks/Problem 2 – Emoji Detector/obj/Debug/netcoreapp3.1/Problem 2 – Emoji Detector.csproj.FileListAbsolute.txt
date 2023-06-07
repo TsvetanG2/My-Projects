@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.exe
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.deps.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\bin\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.dll
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.pdb
+C:\Users\HP\OneDrive\Работен плот\SotUni\C# Fundamentals\Exam Preparation\Problem 2 – Emoji Detector\obj\Debug\netcoreapp3.1\Problem 2 – Emoji Detector.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.exe
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.deps.json
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.runtimeconfig.json
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.runtimeconfig.dev.json
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.dll
+C:\Users\HP\source\repos\HomeSwitch\bin\Debug\netcoreapp3.1\HomeSwitch.pdb
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.AssemblyInfo.cs
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.dll
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.pdb
+C:\Users\HP\source\repos\HomeSwitch\obj\Debug\netcoreapp3.1\HomeSwitch.genruntimeconfig.cache

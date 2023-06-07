@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.exe
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.deps.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\bin\Debug\netcoreapp3.1\Математическо смятане а-б.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.dll
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.pdb
+C:\Users\HP\OneDrive\Работен плот\SoftUni\Математическо смятане а-б\obj\Debug\netcoreapp3.1\Математическо смятане а-б.genruntimeconfig.cache

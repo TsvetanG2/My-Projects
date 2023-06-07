@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.exe
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.deps.json
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.runtimeconfig.json
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.dll
+C:\Users\HP\source\repos\Invalidnumbers\bin\Debug\netcoreapp3.1\Invalidnumbers.pdb
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.dll
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.pdb
+C:\Users\HP\source\repos\Invalidnumbers\obj\Debug\netcoreapp3.1\Invalidnumbers.genruntimeconfig.cache

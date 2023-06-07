@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.exe
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.deps.json
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.runtimeconfig.json
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.runtimeconfig.dev.json
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.dll
+C:\Users\HP\source\repos\TradeComision\bin\Debug\netcoreapp3.1\TradeComision.pdb
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.AssemblyInfo.cs
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.dll
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.pdb
+C:\Users\HP\source\repos\TradeComision\obj\Debug\netcoreapp3.1\TradeComision.genruntimeconfig.cache
