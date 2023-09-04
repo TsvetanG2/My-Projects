@@ -4,7 +4,7 @@ Completed courses✅:
 - [x] Basics
 - [x] Fundamentals
 - [x] Advanced - Moved to a new responsitory <strong><a href="https://github.com/TsvetanG2/Softuni-Python-Advanced">Here</a></strong>
-- [x] OOP
+- [x] OOP - Moved to a new responsitory <strong><a href="https://github.com/TsvetanG2/Python-OOP">Here</a></strong>
 - [ ] Web
 
 # Certificates:
